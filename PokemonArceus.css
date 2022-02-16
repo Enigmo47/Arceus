@@ -1,0 +1,63 @@
+html{
+    background-color: rgb(0, 0, 0);
+}
+body{
+    background-color: rgb(230, 197, 154);
+}
+header{
+    text-align: center;
+}
+main{
+    text-align: justify;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+#Kleavor{
+background: url(https://fondosmil.com/fondo/31239.jpg);
+display: flex;
+font-size: 20px;
+font-weight: bold;
+}
+#foto{
+    size: 50%;
+    text-align: center;
+}
+#Inicio{
+    margin-left: -500px;
+}
+#Inicio{
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+#Lilligant{
+background: url(https://fondosmil.com/fondo/31239.jpg);
+display: flex;
+font-size: 20px;
+font-weight: bold;
+}
+#Arcanine{
+background: url(https://fondosmil.com/fondo/31239.jpg);
+display: flex;
+font-size: 20px;
+font-weight: bold;
+}
+#Electrode{
+background: url(https://fondosmil.com/fondo/31239.jpg);
+display: flex;
+font-size: 20px;
+font-weight: bold;
+}
+#Avalugg{
+background: url(https://fondosmil.com/fondo/31239.jpg);
+display: flex;
+font-size: 20px;
+font-weight: bold;  
+}
+#fin{
+    text-align: justify;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-weight: bold;
+    background: url(https://legends.pokemon.com/assets/home/art.jpg) 30% no-repeat;
+}

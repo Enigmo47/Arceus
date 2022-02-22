@@ -54,6 +54,12 @@ display: flex;
 font-size: 20px;
 font-weight: bold;  
 }
+#generales{
+background: url(https://fondosmil.com/fondo/31239.jpg);
+display: flex;
+font-size: 20px;
+font-weight: bold;
+}
 #fin{
     text-align: justify;
     margin-left: 100px;
